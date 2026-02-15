@@ -1,14 +1,14 @@
-##🌟 Smart Street Light using ESP32 (IoT Based)**
+#🌟 Smart Street Light using ESP32 (IoT Based)
 
 
 
-**📌 Project Overview**
+##📌 Project Overview
 
 This project is an IoT-based Smart Street Light system developed using ESP32, LDR sensor, and relay module. The system automatically turns street lights ON and OFF based on ambient light intensity and sends real-time data to the cloud using ThingsBoard.
 
+---
 
-
-**🎯 Objective**
+##🎯 Objective
 
 The objective of this project is:
 
@@ -18,9 +18,9 @@ To reduce electricity wastage
 
 To monitor light intensity remotely using IoT dashboard
 
+---
 
-
-**🛠 Components Used**
+##🛠 Components Used
 
 ESP32 Microcontroller
 
@@ -34,9 +34,9 @@ Resistors (220Ω)
 
 ThingsBoard IoT Platform
 
+---
 
-
-**⚙️ Working Principle**
+##⚙️ Working Principle
 
 LDR detects surrounding light intensity.
 
@@ -48,23 +48,23 @@ Sensor data (LDR value and light status) is sent to ThingsBoard.
 
 Real-time graphs and indicators are displayed on dashboard.
 
+---
 
-
-**📊 Dashboard Features**
+##📊 Dashboard Features
 
 Time Series Graph for LDR values
 
 Time Series Graph for Light Status (0/1)
 
+---
 
-
-**🔗 Simulation Link**
+##🔗 Simulation Link
 
 https://wokwi.com/projects/414683709398418433
 
+---
 
-
-**🔮 Future Improvements**
+##🔮 Future Improvements
 
 Add PIR motion sensor for energy saving
 
@@ -74,11 +74,11 @@ Automatic dimming using PWM
 
 Mobile app monitoring
 
+---
 
+##👨‍💻 Developed By
 
-**👨‍💻 Developed By**
-
-Ayush Kumar
+**Ayush Kumar**
 
 B.Tech (CSE)
 
