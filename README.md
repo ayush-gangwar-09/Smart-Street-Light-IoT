@@ -66,4 +66,4 @@ Ayush Kumar
 
 B.Tech (CSE)
 
-First Semester Mini Projec
+First Semester Mini Project
